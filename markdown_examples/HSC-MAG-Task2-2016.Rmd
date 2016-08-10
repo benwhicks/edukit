@@ -1,0 +1,189 @@
+---
+fontsize: 11pt
+geometry: margin=1in
+output: pdf_document
+---
+
+``` {r echo = FALSE, fig.height = 4, fig.width = 4, fig.align='right'}
+library(png)
+library(grid)
+img <- readPNG('student-number.png')
+grid.raster(img)
+```
+
+&nbsp;
+
+``` {r echo = FALSE, fig.height = 2, fig.width = 2}
+library(jpeg)
+library(grid)
+img <- readJPEG('Oxley-crest.jpg')
+grid.raster(img)
+```
+
+&nbsp;
+
+&nbsp;
+
+Term 1
+
+February 
+
+2016
+
+
+### Stage 6 - Year 12
+
+# Maths General Task 2
+
+### Task 2 - 25%
+
+-------------------------------
+
+**General Instructions**
+
+* Time allowed: 45 minutes
+* Write using a blue or black pen
+* Board approved calculators can be used
+* In all questions show relevant mathematical reasoning and/or calculations
+
+**Total Marks - 30**
+
+\newpage
+
+Section I
+=====================================
+
+| **10 marks** 
+| **Attempt questions 1 - 10** 
+| **Allow about 10 minutes for this section**
+
+--------------------------------------
+
+**1** \text{     } Simplify $(3b^4)^2$
+
+(A) $9b^{16}$
+
+(B) $6b^8$
+
+(C) $9b^6$
+
+(D) $9b^8$
+
+&nbsp;
+
+**2** \text{     } Solve the equation: $$\frac{5w-3}{6}=8$$
+
+(A) $w=13.6$
+
+(B) $w=10.8$
+
+(C) $w=10.2$
+
+(D) $w=9.8$
+
+&nbsp;
+
+**3** \text{     } What best describes the shape of the following data set:
+
+``` {r echo = FALSE, fig.width = 5, fig.height = 2.5, fig.align = 'center'}
+data <- data.frame(Score = c(3,4,4,5,3,5,8,5,7,9,7,7,6,13,17,22,15,25))
+boxplot(data, horizontal = TRUE)
+```
+
+(A) Bi-modal
+
+(B) Symmetrical
+
+(C) Positively Skewed
+
+(D) Negatively Skewed
+
+\newpage
+
+**4** \text{     } Solve the equation: $$\frac{5w-3}{6}=8$$
+
+(A) $w=13.6$
+
+(B) $w=10.8$
+
+(C) $w=10.2$
+
+(D) $w=9.8$
+
+&nbsp;
+
+
+\newpage
+
+Section II
+=====================================
+
+| **20 marks**
+| **Attempt Questions 11 - 12**
+| **Allow about 35 minutes for this section**
+
+Answer each the questions in the spaces provided
+
+Your responses should include relevant mathematical reasoning and/or calculations.
+
+Extra writing space has been provided on pages 11 and 12. If you use this space, clearly indicate which question you are answering. 
+
+--------------------------------------------------------
+
+**Question 11** (10 marks)
+
+(a) Expand $2y(5y^{2}-y^{3})$ **\hfill 1**
+
+\huge.........................................................
+
+.........................................................
+
+.........................................................
+
+\normalsize
+
+&nbsp;
+
+(b) Solve these equations to find the values of $x$ and $y$ **\hfill 3**
+
+$$\begin{cases}2x+y=5\\2x-y=9\end{cases}$$
+
+\huge.........................................................
+
+.........................................................
+
+.........................................................
+
+.........................................................
+
+.........................................................
+
+.........................................................
+
+.........................................................
+
+\normalsize
+\newpage
+
+Solutions
+=========================================
+
+### Section I - Multiple Choice
+
+| Question | Answer |
+| -------: | ------ |
+| 1        |  D     |
+| 2        |  C     |
+| 3        |  C     |
+| 4        |  A--     |
+| 5        |  A--     |
+| 6        |  A--     |
+| 7        |  A--     |
+| 8        |  A--     |
+| 9        |  A--     |
+| 10       |  A--     |
+
+### Section II - Written response
+
+Some answers
+
